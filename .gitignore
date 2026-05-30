@@ -1,0 +1,27 @@
+# Python و Django
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.sqlite3
+
+# محیط مجازی (Virtual Environment)
+venv/
+env/
+ENV/
+
+# فایل‌های static و media (عکس، فیلم، فایل‌های آپلودی)
+staticfiles/
+static/
+media/
+mediafiles/
+
+# فایل‌های موقتی ادیتورها
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
